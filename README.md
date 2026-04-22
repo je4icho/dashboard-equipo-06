@@ -1,4 +1,4 @@
-# 📊 Dashboard Interactivo de Análisis de Ventas – Proyecto Académico
+# 📊 Dashboard Interactivo de Análisis de Ventas – Curso Visualización de Información en la Era del Big Data
 
 Este repositorio contiene el desarrollo completo de un dashboard interactivo construido con **Streamlit**, como parte del curso *Visualización de Información en la Era del Big Data*.  
 El objetivo del proyecto es analizar el dataset *Supermarket Sales* mediante técnicas de visualización univariada, bivariada y multivariada, integrando los hallazgos en una interfaz interactiva que facilite la toma de decisiones.
